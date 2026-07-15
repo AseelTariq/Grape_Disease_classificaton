@@ -51,26 +51,21 @@ PlantVillage – Grape Leaf Disease Dataset
 
 ## 📸 Project Demo
 
-### 🏠 Home Page
+### Sample Data from Dataset
 
-![Home Page](images/home_page.png)
-
-### 🔍 Prediction Example
-
-![Prediction](images/prediction.png)
+![Sample Data from Dataset](Image/Sample%20data%20from%20data%20set.png)
 
 ### 📊 Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Models Comparison](Image/Models%20Comparison.png)
 
 ### 📈 ROC Curve Comparison
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve Comparison](Image/ROC%20Curve%20Comparison%20across%20All%20Models.png)
 
 ### ✅ Confusion Matrix Analysis
 
-![Confusion Matrix](images/confusion_matrix.png)
-
+![Confusion Matrix Analysis](Image/Confusion%20Matrix%20Analysis.png)
 ---
 
 ## 📄 Project Report
