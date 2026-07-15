@@ -51,25 +51,19 @@ PlantVillage Grape Leaf Dataset
 
 
 ### sample data from data set
-
-
-
+/Image/Sample data from data set.png
 ---
 
 ### Model Comparison
-
-
-
+/Image/Models Comparison.png
 ---
 
 ### ROC Curve Comparison
-
+/Image/ROC Curve Comparison across All Models.png
 ---
 
 ### Confusion Matrix Analysis
-
-
-
+/Image/Confusion Matrix Analysis.png
 ---
 
 ## 📄 Report
