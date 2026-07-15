@@ -1,6 +1,6 @@
 # 🍇 Grape Disease Classification
 
-![Home Page](images/home_page.png)
+![Home Page](images/home_page.png) 
 
 A deep learning and machine learning project for grape leaf disease classification using the PlantVillage dataset. This project compares multiple AI models to accurately identify grape leaf diseases and evaluates their performance using standard classification metrics.
 
