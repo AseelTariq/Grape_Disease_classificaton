@@ -1,18 +1,20 @@
 # 🍇 Grape Disease Classification
 
-A deep learning project for grape leaf disease classification using multiple AI and machine learning models. The project compares different architectures to identify grape leaf diseases accurately using the PlantVillage dataset.
+![Home Page](images/home_page.png)
+
+A deep learning and machine learning project for grape leaf disease classification using the PlantVillage dataset. This project compares multiple AI models to accurately identify grape leaf diseases and evaluates their performance using standard classification metrics.
 
 ---
 
 ## 🚀 Live Demo
 
-https://r1z0n4s5f3t0-d.space-z.ai
+🔗 https://r1z0n4s5f3t0-d.space-z.ai
 
 ---
 
-## 📌 Project Overview
+## 📖 Project Overview
 
-This project aims to classify grape leaf diseases by comparing multiple deep learning and machine learning models. The implemented models were evaluated using several performance metrics including Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
+The objective of this project is to develop an intelligent system for classifying grape leaf diseases by comparing several deep learning and machine learning models. Each model was evaluated using Accuracy, Precision, Recall, F1-Score, and ROC-AUC to identify the most suitable solution for practical agricultural applications.
 
 ---
 
@@ -26,47 +28,52 @@ This project aims to classify grape leaf diseases by comparing multiple deep lea
 
 ---
 
-## 🛠 Technologies
+## 🛠️ Technologies
 
 - Python
 - PyTorch
 - Scikit-learn
 - OpenCV
-- Google Colab
 - NumPy
 - Pandas
 - Matplotlib
+- Google Colab
 
 ---
 
 ## 📂 Dataset
 
-PlantVillage Grape Leaf Dataset
+PlantVillage – Grape Leaf Disease Dataset
 
-*The dataset is not included in this repository because of its large size.*
+> The dataset is not included in this repository due to its large size.
 
 ---
 
 ## 📸 Project Demo
 
+### 🏠 Home Page
 
-### sample data from data set
-/Image/Sample data from data set.png
+![Home Page](images/home_page.png)
+
+### 🔍 Prediction Example
+
+![Prediction](images/prediction.png)
+
+### 📊 Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+### 📈 ROC Curve Comparison
+
+![ROC Curve](images/roc_curve.png)
+
+### ✅ Confusion Matrix Analysis
+
+![Confusion Matrix](images/confusion_matrix.png)
+
 ---
 
-### Model Comparison
-/Image/Models Comparison.png
----
-
-### ROC Curve Comparison
-/Image/ROC Curve Comparison across All Models.png
----
-
-### Confusion Matrix Analysis
-/Image/Confusion Matrix Analysis.png
----
-
-## 📄 Report
+## 📄 Project Report
 
 The complete project report is available in the report folder.
 
@@ -75,4 +82,7 @@ The complete project report is available in the report folder.
 ## 👥 Team
 
 - Aseel Tariq
-- Team Members
+- Jude Alghtani
+- Waad Alhenaki
+- Lana Almalki
+- Aryam Almutairi
